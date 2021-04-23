@@ -1,0 +1,37 @@
+﻿  ConsoleApplication1.cpp
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(7,10): error C2146: syntax error: missing ';' before identifier 'wc'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(7,15): error C2143: syntax error: missing ';' before '{'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(7,15): error C2447: '{': missing function header (old-style formal list?)
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9,3): error C3484: syntax error: expected '->' before the return type
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9,4): error C3613: missing return type after '->' ('int' assumed)
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9,4): error C2146: syntax error: missing ';' before identifier 'lpfnWndProc'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(10,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(10,3): error C3484: syntax error: expected '->' before the return type
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(10,4): error C3613: missing return type after '->' ('int' assumed)
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(10,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(10,1): error C2086: 'int wc': redefinition
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9): message : see declaration of 'wc'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(10,4): error C2146: syntax error: missing ';' before identifier 'hInstance'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(11,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(11,3): error C3484: syntax error: expected '->' before the return type
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(11,4): error C3613: missing return type after '->' ('int' assumed)
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(11,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(11,1): error C2086: 'int wc': redefinition
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(9): message : see declaration of 'wc'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(11,4): error C2146: syntax error: missing ';' before identifier 'lpszClassName'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(13,19): error C2440: 'initializing': cannot convert from 'int *' to 'int'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(13,14): message : There is no context in which this conversion is possible
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(17,6): error C2146: syntax error: missing ';' before identifier 'hwnd'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(32,1): error C2059: syntax error: 'if'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(33,1): error C2143: syntax error: missing ';' before '{'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(33,1): error C2447: '{': missing function header (old-style formal list?)
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(37,12): error C2065: 'hwnd': undeclared identifier
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(37,18): error C2065: 'nCmdShow': undeclared identifier
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(37,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(37,27): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+D:\Mohan\Documents\Clemson\Spring 2021\cpsc 4720\productivity_app\tets\ConsoleApplication1\ConsoleApplication1.cpp(37,11): message : The initializer contains too many elements
